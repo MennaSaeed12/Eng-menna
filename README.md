@@ -121,9 +121,7 @@
       <img src="WhatsApp Image 2025-07-08 at 2.54.47 PM (1).jpeg" alt="feedback" />
       <img src="WhatsApp Image 2025-07-08 at 2.54.47 PM (2).jpeg" alt="feedback" />
       <img src="WhatsApp Image 2025-07-08 at 2.54.47 PM.jpeg" alt="feedback" />
-      <img src="WhatsApp Image 2025-07-08 at 2.54.48 PM (1).jpeg" alt="feedback" />
-      <img src="WhatsApp Image 2025-07-08 at 2.54.48 PM (2).jpeg" alt="feedback" />
-      <img src="WhatsApp Image 2025-07-08 at 2.54.48 PM (3).jpeg" alt="feedback" />
+      
       <img src="WhatsApp Image 2025-07-08 at 2.54.48 PM.jpeg" alt="feedback" />
       <img src="WhatsApp Image 2025-07-08 at 2.54.49 PM (1).jpeg" alt="feedback" />
       <img src="WhatsApp Image 2025-07-08 at 2.54.49 PM (2).jpeg" alt="feedback" />
